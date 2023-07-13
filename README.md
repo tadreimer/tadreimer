@@ -1,4 +1,4 @@
-Hey, I'm Thaddeus Reimer, a junior developer/intern.
+Hey, I'm Thaddeus, a junior developer/intern.
 
 I know:
  - C#/.NET
